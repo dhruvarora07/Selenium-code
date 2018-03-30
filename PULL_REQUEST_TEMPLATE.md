@@ -1,10 +1,7 @@
-<Title>
 
+# Title
 PR Should have title 
 
-
-
-<Description>
-
+# Description
 PR should have description regarding the commit 
 
